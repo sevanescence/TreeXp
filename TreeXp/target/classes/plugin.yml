@@ -1,0 +1,5 @@
+name: TreeXp
+version: 1.0.0
+main: com.makotomiyamoto.treexp.TreeXp
+description: "\"This is so fake. You don't get exp from trees, everyone knows that!\""
+api-version: 1.13

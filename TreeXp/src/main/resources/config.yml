@@ -1,0 +1,8 @@
+debug-mode: true
+
+# minimum to maximum amount of experience
+# breaking a log will drop.
+exp-range: 50 to 65
+
+# leave blank or None to disable
+log-break-message: "&8[&bTreeXp&8] &7You broke a log with your fist and gained &b%exp-gained% &7exp! :D"
